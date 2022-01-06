@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+  }
+
+  /* Hero Section */
+
+  .desc-section{
+    vertical-align: middle;
+    margin: 2rem;
+    font-weight: 200;
+    padding: 3rem;
+    border: 6rem;
+    }
+
+.text{
+    display: inline-block;
+    display:flow-root;
+    width: 40%;
+    padding: 1rem;
+}
+.text p{
+    margin-bottom: 0rem;
+}
+
+.desc-img1{
+    display: inline-block;
+    width: 30%;
+    margin-left: 50%;
+    padding: -50%;
+    margin-top: -15rem;    
+}
+
+.text1{
+    border: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+}
+
